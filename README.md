@@ -4,9 +4,10 @@
 
 ## 📌 Description
 
-Welcome to Chacka0101, a collection of projects, tools, learning resources, and experiments related to Artificial Intelligence (AI), cybersecurity, ethical hacking, penetration testing, and Kali Linux.
+Welcome to Hacking Tools & Guide Book Repo, a collection of projects, tools, learning resources, and experiments related to Artificial Intelligence (AI), cybersecurity, ethical hacking, penetration testing, and Kali Linux.
 
 This repository brings together different projects and resources for learning, experimentation, and exploring modern technologies. It is intended to support cybersecurity education, responsible security research, and technical development.
+
 ---
 
 📑 Table of Contents
