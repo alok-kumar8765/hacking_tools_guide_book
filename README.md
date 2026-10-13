@@ -1,9 +1,13 @@
-🚀 Chacka0101 — Cybersecurity & AI Repository
-📌 Description
+# 🚀 Cybersecurity & AI Repository
+
+---
+
+## 📌 Description
 
 Welcome to Chacka0101, a collection of projects, tools, learning resources, and experiments related to Artificial Intelligence (AI), cybersecurity, ethical hacking, penetration testing, and Kali Linux.
 
 This repository brings together different projects and resources for learning, experimentation, and exploring modern technologies. It is intended to support cybersecurity education, responsible security research, and technical development.
+---
 
 📑 Table of Contents
 About the Repository
@@ -85,11 +89,12 @@ This section can include study notes, Linux commands, lab exercises, and learnin
 
 This repository is not an official Kali Linux or Offensive Security publication unless explicitly stated.
 
-📂 Repository Structure
+### 📂 Repository Structure
 
 The repository may be organized as follows:
 
-chacka0101/
+```markdown
+hacking_tools_guide_book/
 ├── README.md
 ├── Jarvis-AI-Assistant/
 ├── Ethical-Hacking-Tool/
@@ -98,16 +103,23 @@ chacka0101/
 ├── Hacking-Tool/
 ├── Onex/
 └── Pen-103-Kali-Linux-Reinvented-KLCP/
-
+```
 
 The directory names above are suggestions. Update them to match the actual files and folders in the repository.
 
-🚀 Getting Started
+### 🚀 Getting Started
+
 1. Clone the Repository
-git clone <YOUR_REPOSITORY_URL>
+
+```code
+git clone https://github.com/alok-kumar8765/hacking_tools_guide_book
+```
 
 2. Enter the Repository Directory
-cd chacka0101
+
+```code
+cd hacking_tools_guide_book
+```
 
 3. Explore the Projects
 
@@ -117,7 +129,9 @@ Open the relevant project folder and follow its individual README or installatio
 
 Install only the dependencies specified by the individual project's documentation. Review scripts before executing them.
 
-📋 Requirements
+---
+
+## 📋 Requirements
 
 Requirements vary by project and may include:
 
@@ -129,7 +143,7 @@ A virtual machine or isolated test environment for security experiments
 
 Check each project's documentation for exact requirements.
 
-⚠️ Disclaimer
+### ⚠️ Disclaimer
 
 This repository is intended for educational purposes, authorized security testing, and responsible research.
 
@@ -138,7 +152,10 @@ Do not use these resources to access systems, accounts, or networks without auth
 Do not deploy exploits against real-world targets without proper permission.
 Follow applicable laws, organizational policies, and responsible disclosure practices.
 The repository maintainer is not responsible for misuse of the materials.
-🤝 Contributing
+
+---
+
+## 🤝 Contributing
 
 Contributions, suggestions, bug reports, and documentation improvements are welcome.
 
@@ -149,14 +166,16 @@ Submit a pull request with a clear description.
 
 Ensure that contributions respect applicable laws and responsible cybersecurity practices.
 
-📜 License
+---
+
+## 📜 License
 
 No license has been specified yet. Until a license is added, do not assume that the repository's contents may be freely redistributed, modified, or used commercially.
 
 Consider adding an appropriate open-source license if you intend to allow public reuse.
 
-Maintained by: chacka0101
+Maintained by: *Alok Kumar Kushal*
 
-⭐ If you find this repository useful, consider starring it and sharing suggestions for improvement.
+> ⭐ If you find this repository useful, consider starring it and sharing suggestions for improvement.
 
 Learn. Build. Test Responsibly.
